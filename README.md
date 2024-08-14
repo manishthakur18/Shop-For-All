@@ -1,5 +1,5 @@
-# Snapdeal-Clone
-Built the clone of Snapdeal website. Features :- Product details, Explore section to view products, Cart page, Payment Gateway
+# Shop For All
+Built the ecommerce website (Shop For All). Features :- Product details, Explore section to view products, Cart page, Payment Gateway
 
 ## This website is hosted on herokuapp.com
 Link to visit site:- https://manishthakur18.github.io/Shop-For-All/
